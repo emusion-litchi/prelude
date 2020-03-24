@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: serif;
+}
+
+header{
+  text-align: center;
+  padding: 49px 0 70px 0;
+}
+.change0{
+  display: inline-block;
+  width: 60px;
+  transition: .3s;
+  font-size: 42px;
+}
+.change0:hover{
+  color: white;
+}
+.title{
+  text-align: center;
+  padding: 56px 0 42px 0;
+}
+.top-wrapper p{
+  text-align: center;
+  font-size:14px;
+}
+footer{
+  padding: 77px 0 28px 0;
+  text-align: center;
+}
